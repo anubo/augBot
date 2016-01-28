@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Powder-actuated_tool" size="50.000000 22.349398" />
+    <ImageTarget name="Decking" size="50.000000 16.265060" />
+  </Tracking>
+</QCARConfig>
